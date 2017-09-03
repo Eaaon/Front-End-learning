@@ -26,3 +26,13 @@ JavaScript入门视频：<a href="http://study.163.com/course/introduction/19500
 5、<a href="https://github.com/jgthms/web-design-in-4-minutes" target="_blank">4分钟学会网页样式</a>
 
 迅速上手前端
+
+6、<a href="http://www.html5code.net/" target="_blank">html5模板网</a>
+
+7、<a href="http://www.cssmoban.com/" target="_blank">模板之家</a>
+
+8、<a href="http://zq210wl.github.io/2015/01/23/html5-learning/" target="_blank">HTML5学习总结</a>
+
+9、<a href="http://blog.poetries.top/tags/GitHub/#HTML5" target="_blank">常见的前端开发问题</a>
+
+10、<a href="http://www.html5tricks.com/10-html5-game-with-code.html" target="_blank">10款超炫HTML5游戏</a>
