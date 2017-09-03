@@ -30,3 +30,7 @@ JavaScript入门视频：<a href="http://study.163.com/course/introduction/19500
 9、<a href="http://blog.poetries.top/tags/GitHub/#HTML5" target="_blank">常见的前端开发问题</a>
 
 10、<a href="http://www.html5tricks.com/10-html5-game-with-code.html" target="_blank">10款超炫HTML5游戏</a>
+
+11、<a href="http://www.cnblogs.com/zhangziqiu/archive/2009/04/30/jQuery-Learn-1.html" target="_blank">从零开始学习jQuery</a>
+
+12、<a href="http://caibaojian.com/html5-canvas-demos.html" target="_blank">HTML5 canvas动画经典案例和下载</a>
