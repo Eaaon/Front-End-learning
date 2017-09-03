@@ -14,3 +14,7 @@ HTNL5入门视频：<a href="http://study.163.com/course/introduction/171001.htm
 CSS3入门视频：<a href="http://study.163.com/course/introduction/190001.htm#/courseDetail" target="_blank">CSS3 - 网易云课堂</a>
 
 JavaScript入门视频：<a href="http://study.163.com/course/introduction/195001.htm#/courseDetail" target="_blank">JavaScript - 网易云课堂</a>
+
+3、<a href="http://www.w3school.com.cn/index.html" target="_blank">W3school</a>
+
+前端开发参考手册
