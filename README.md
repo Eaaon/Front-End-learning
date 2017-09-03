@@ -33,4 +33,6 @@ JavaScript入门视频：<a href="http://study.163.com/course/introduction/19500
 
 11、<a href="http://www.cnblogs.com/zhangziqiu/archive/2009/04/30/jQuery-Learn-1.html" target="_blank">从零开始学习jQuery</a>
 
-12、<a href="http://caibaojian.com/html5-canvas-demos.html" target="_blank">HTML5 canvas动画经典案例和下载</a>
+12、<a href="http://www.jq22.com/" target="_blank">jQuery最新插件</a>
+
+13、<a href="http://caibaojian.com/html5-canvas-demos.html" target="_blank">HTML5 canvas动画经典案例和下载</a>
