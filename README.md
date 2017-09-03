@@ -17,15 +17,9 @@ JavaScript入门视频：<a href="http://study.163.com/course/introduction/19500
 
 3、<a href="http://www.w3school.com.cn/index.html" target="_blank">W3school</a>
 
-前端开发参考手册
-
-4、<a href="http://www.shouce.ren/" target="_blank">手册网</a>
-
-手册网提供最全的网站开发教程
+4、<a href="http://www.shouce.ren/" target="_blank">手册网提供最全的网站开发教程</a>
 
 5、<a href="https://github.com/jgthms/web-design-in-4-minutes" target="_blank">4分钟学会网页样式</a>
-
-迅速上手前端
 
 6、<a href="http://www.html5code.net/" target="_blank">html5模板网</a>
 
